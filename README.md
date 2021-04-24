@@ -1,5 +1,6 @@
 # Automation_Project
 Upgrad DevOps Automation project
+
 Author: Venkatesh G
 
 Script is used for periodic archival of Apache2 webserver logs. It installs Apache2 web server if not already installed.
